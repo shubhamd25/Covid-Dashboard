@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Covid-Dashboard with api
+
+![screencapture-localhost-3000-2021-10-28-17_29_51](https://user-images.githubusercontent.com/78203118/139426281-95de3d95-4362-439e-95a1-41f8be95f5e5.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
